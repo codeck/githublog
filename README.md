@@ -1,5 +1,5 @@
 ~~githublog~~
 =========
-[GitBook](http://www.gitbook.com) is good enough. [sources](https://github.com/GitbookIO/)
+[Prose](http://prose.io)/[GitBook](http://www.gitbook.com) is good enough.
 
 no need for ~~this~~ anymore.
